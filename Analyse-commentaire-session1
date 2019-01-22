@@ -1,0 +1,143 @@
+# Recherche Reproductible session 1 :  24 octobre 2018 -  24 octobre 2019
+
+## Chiffres inscriptions 
+
+* 3592 inscrits / 291 attestations de suivi avec succès 
+
+
+----
+* taux de réussite "absolu" = 8,10 %
+* taux de réussite réél (1er quiz = 628) =  46 %  ''(En enseignement en ligne à distance, la moyenne du taux d'echec est de 50%)
+''
+
+== Analyse des commentaires 3eme questionnaire : bilan du MOOC ==
+
+[[Media:Questionnaire 816625 C028AL-Questionnaire final.pdf|C028AL-Questionnaire final.pdf 17/01/2019]]
+
+=== Généralités sur les réponses ===
+
+* Les réponses données à ce questionnaire (110) viennent en grande partie des personnes qui ont été jusqu'au bout ou quasiment (85.45% personnes disent avoir fait le module 4 /  ''Je n’ai pas pu suivre le MOOC en entier ... = 8 reponses  7% des reponses '' ! 
+* Combien avez-vous appris dans ce cours ? : '''86.54% beaucoup et bien appris'''
+* Seriez-vous prêts à le recommander ? : '''92,73 % oui''' (102 réponses !)
+
+=== Ce MOOC a-t-il répondu à vos attentes ? ===
+
+* 48.18% complètement
+* '''32 % partiellement'''
+
+=== Question : Niveau du MOOC ===
+
+46% pense que le niveau du MOOC est bien adapté / 
+40.00%  "élevé mais j'ai pu suivre" + trop élévé 7.27%
+
+* le % de 7% de "trop élévé" correspond à celui de ceux qui ont dit ne pas avoir pu terminer
+* A propos des déclarations sur le niveau du MOOC : ce serait interessant de rapprocher de la question sur les connaissances préalables
+
+=== '''problème des prérequis ou d'explication sur le positionnement du MOOC:''' ===
+
+<<
+* '''''Détailler les prérequis dans la présentation'''.'' (question sur l'amélioration)
+* ''Manque de connaissance du langage Python qui m'a bloquée pour le TP notamment.''
+* ''Choix de Jupyter/Python puis de RStudio/R ...  Donc ma difficulté était l'absence de maitrise de ces langages/outils.'' 
+* ''Nécessite un bon niveau de Python''
+* ''Je n'étais pas un expert dans les langages de programmation proposés : j'avais des notions de python et j'étais débutant en R, c'est peut-être cette partie qui m'a été le plus difficile''
+* ''Les acquis préalables sont trop importants''
+* ''Je me suis attachée à celui qui semblait le plus simple dans le cadre du mooc (Jupyter), mais celui qui m'intéressera plus d'utiliser dans la suite sera sans doute emacs/orgmode. Et là il y a beaucoup d'heure de prise en main pour moi ^^''
+* ''le cours balaye un champ immense.''
+* ''Déjà recommandé à des collègues mais en leur conseillant de s'initier à R ou Python avant de le démarrer.'' (commentaire dans la partie "recommandation du cours"
+* ''De plus certains des sujets nécessitaient des connaissances en statistiques que je n'avaient pas forcement.'' (commentaire dans la partie difficultés rencontrées) 
+* ''J'avais choisi le parcours RStudio. Les passages avec python m'ont été difficile.'' (commentaire dans la partie difficultés rencontrées)
+* ''J'ai surtout rencontré des difficultés pour faire les exercices. Mon niveau en statistiques et analyse des données est trop faible. (question sur les points négatifs du cours)
+''
+* ''Il faut connaître les langages de programmation et l'analyse de données''. 
+
+>>
+
+'''===> Préconisation :'''
+ '''Surtout si on veut + attirer les SHS, voir si on peut baliser le cours et les parcours en terme 
+ de "niveau " (débutant, intermediaire, avancé)'''
+ *  '''mieux préciser les pré-requis dans le cours, en introduction de chaque module '''
+ * ''insister sur le niveau minimum requis pour suivre le MOOC (il faut quand même des notions dans les logiciels présentés)''
+ * "May be you could add some basics on git and python."
+ * Annoncer les compétences nécessaires pour réaliser le devoir noté par les pairs dès le début.
+
+=== Navigation et organisation du cours ===
+===== Question difficultés rencontrées =====
+
+*  ''J'ai trouvé que la navigation entre les modules (à partir de la plateforme MOOC) n'était pas intuitive. Je me suis souvent perdue et je n'arrivais pas à savoir où je m'étais arrêtée, où retrouver les infos pertinentes des modules précédents.Globalement, il y avait beaucoup d'informations sur la page d’accueil de chaque module et j'avais du mal à faire le tri.''
+
+* ''Difficultés pour retrouver certaines ressources (je ne me souvenais plus du module concerné)''
+* ''Les ressources sont trop éparpillées et la progression pédagogique un peu hasardeuse ; j'ai passé beaucoup de temps à retrouver où est-ce que j'avais entendu/lu telle chose.''
+
+* Introduction du cours trop longue 
+
+==== déroulement temporel du cours ====
+
+J'ai bien failli lâcher à cause de problèmes techniques et par mes lacunes dans les différents éco-systèmes. J'aurais bien aimé qu'il y ait une semaine de pause entre le module 2 et 3 car cela m'aurait permis de mettre en pratique les ressources proposées avant de passer à l'exercice évalué par les pairs, qui était d'ailleurs un exercice très intéressant (y réfléchir, proposer et comparer sa solution) 
+
+
+ Préconisation : ''' ===> Mieux signaler l'Index des ressources et rappeler plus souvent son existence ? '''
+  ''Rallonger la durée du cours dans le temps et peut-etre mieux guider les apprenants "temporellement" dans le MOOC dans la prise en main des outils  ?''
+
+=== Logiciels et maîtrise des outils du cours ===
+
+'''Difficultés:''' 
+* ''Installation des logiciels, lien Git et Rstudio...'' 
+* ''pbm à l'installation de orgmode emacs. Du coup, j'ai passé trop de temps sur du technique pour pouvoir passer du temps à faire les exercices.'' 
+* ''Hétérogène. Il manque d'informations sur les installations et pré requis machines si on veut ensuite le mettre en place dans notre laboratoire.''
+*  L'outil Gitlab fut une découverte et j'aurais aimé avoir plus d’approfondissement dessus. Les modules Jupyter, Rstudio son difficile à assimiler pour un néophyte
+*  ''Installation des logiciels, Lien Gitlab / RStudio''
+'''Améliorations :'''
+* "Créer un prémodule pour installation des logiciels." (améliorations)
+* "Installation des logiciels. Il faudrait un module 0 rien que pour cela".
+*  mettre en valeur Gitlab : "Je pense qu'il faudrait plus insister sur l'utilisation de gitlab."
+* se familiariser avec les outils proposés : "un créneau" temporel dédié à cela 
+* expliciter davantage les profits que l'on peut tirer de chaque outil
+* J'ai bien failli lâcher à cause de problèmes techniques et par mes lacunes dans les différents éco-systèmes. J'aurais bien aimé qu'il y ait une semaine de pause entre le module 2 et 3 car cela m'aurait permis de mettre en pratique les ressources proposées avant de passer à l'exercice évalué par les pairs, qui était d'ailleurs un exercice très intéressant (y réfléchir, proposer et comparer sa solution)
+
+
+
+
+ ===> rend le MOOC attractif  et c'est bien sûr un critère positif mais pose des difficultés
+
+=== Bilinguisme ===
+
+* '''Version Bilingue''' : ''Peut-être que de séparer entre onglets en français et onglets en anglais dans les explications permettrait d'y voir plus clair''.
+
+* "Oh, the bilingual nature of the course was killing me. Although, you were sensitive to non-French speakers, it was still cumbersome for me to get used to reading subtitles :) "
+* la version anglaise ! "Despite the "primary" language being French, the English content did not feel "second class" in most cases.
+
+Malgré une version anglaise de très bonne qualité, cela reste toujours difficile de faire une version bilingue d'un mooc :
+
+  Préconisation ===> réflechir sur une amélioration de la présentation anglais / français ?
+  voice over en plus des sous-titres
+
+=== Question du public  SHS ===
+
+* Je suis chercheuse en linguistique, je n'ai pas un très haut niveau de mathématiques. Or, clairement, les exemples pris en cours et les exercices s'adressent à des mathématiciens. Je trouve dommage car le premier module laisse à penser que tout le monde est concerné par le MOOC, mais quand on progresse dans les modules on se rend compte qu'il faut un bon niveau de mathématiques et la maîtrise des logiciels pour arriver à faire les exercices.
+* ''Bien mais j'avais de connaissance en informatique. Pour l'exercice de fin, il me manquait des compétences en mathématique, statistique pour faire quelques choses de pertinent.''
+* ''Les outils proposés sont d'une autre planète par rapport aux cinq labos que j'ai fréquenté au cours des 20 dernières années. La crise de la reproductibilité touche fortement la biologie. Les outils proposés ne sont selon moi pas utilisables dans les labos de recherche biomédicale.''
+* ''donner plus d'exemples en SHS''
+
+=== Points positifs ===
+
+* '''Clarté des explications souvent mentionnée''' / '''Pédagogie''' "''les outils sont au service de la problématique générale et le mooc ne se limite pas à un tutorial sur les dits outils''". 
+** les enseignants : pédagogie, compétence, disponibilité, réactivité
+** les principes de la recherche reproductible bien transmis
+* Richesse du contenu : '''le choix des 3 parcours''', '''les exos''' , les ressources complémentaires
+* Organisation du cours
+* mise en pratique, l'ensemble des outils et en particulier l'environnement Gitlab + notebook "'''Bravo pour l'infra technique'''"
+* la version anglaise ! "Despite the "primary" language being French, the English content did not feel "second class" in most cases.
+
+=== Points négatifs ===
+
+* '''Les quiz''' : manque d'uniformité, problèmes choix multiples ou unique -  mieux adapter à la question, problèmes de questions trop anecdotiques, subjectives : ''"La difficulté des quizz était basé sur des subtilités de langage/analyse plutôt que sur des subtilités de compréhension"''.- 
+* 1 personne pointe en particulier les Quiz module 3 : '''alignement pédagogique à revoir''' (:-) "Une attention toute particulière aux quizz de l'homme en chemise grise, qui ne respectent tout simplement pas les réponses données en video".
+
+=== Propositions isolées ou contradictoires ===
+
+* proposition d'ajout de modules comme GuiX / Docker ou etudier les bases de données reproductibles vs "Je pense qu'il faut plutôt simplifier encore un peu ce cours plutôt que trop l'incrémenter."
+
+* Restreindre l'évaluation par les pairs par langage
+* avoir un export du MOOC de type un document pdf qui recapitule tout  (===> solution : un POC recherche reproductible :-)"
+* la focalisation à l'analyse de données restreint trop le champ de la recherche reproductible
